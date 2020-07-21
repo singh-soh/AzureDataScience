@@ -1,6 +1,6 @@
 # Chapter 11
 
-[Source - Click here for lab steps](https://github.com/dangolightly/tensorflow_object_counting_api)  
+[Source files for lab](https://github.com/dangolightly/tensorflow_object_counting_api)  
 # TensorFlow Object Counting API
 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow that makes it easy to develop object counting systems.
 
