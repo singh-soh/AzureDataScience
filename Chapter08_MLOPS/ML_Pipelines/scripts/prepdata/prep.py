@@ -1,6 +1,6 @@
 import argparse
 import os
- from pandas import read_csv
+import pandas as pd
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from azureml.core import Dataset, Run
